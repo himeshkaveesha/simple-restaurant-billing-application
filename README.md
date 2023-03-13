@@ -3,7 +3,7 @@ Simple application built using Oracle apex as a easy terminal solution for billi
 
 
 technologies used:
-  oracle APEX
-  oracle database 21c xe
+  oracle APEX,
+  oracle database 21c xe,
   jaspersoft
   
